@@ -1,4 +1,6 @@
 # gr_code
+![Screenshot_1725975301](https://github.com/user-attachments/assets/830908a2-5916-45c5-abf9-e9fd7384f745)
+
 
 A new Flutter project.
 
